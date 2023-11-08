@@ -12,7 +12,3 @@
 - GitHub: https://github.com/GianMarcoOddo
 > Feel free to reach out for any questions or further clarification on this code.
 ---
-
-
-### Test 
-## *TEST*
